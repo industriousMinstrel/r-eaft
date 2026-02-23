@@ -1,0 +1,152 @@
+{
+  "experiment_id": "REAFT-PROTOCOL-B-FFT",
+  "version": "1.0-FFT",
+  "started": "2026-02-01T19:29:28.295224",
+  "completed": [
+    "42_sft",
+    "42_eaft",
+    "42_reaft",
+    "123_sft",
+    "123_eaft",
+    "123_reaft",
+    "456_sft",
+    "456_eaft",
+    "456_reaft",
+    "789_sft",
+    "789_eaft",
+    "789_reaft",
+    "2024_sft",
+    "2024_eaft",
+    "2024_reaft"
+  ],
+  "results": {
+    "sft": [
+      {
+        "seed": 42,
+        "method": "sft",
+        "news_accuracy": 1.0,
+        "archive_retention": 1.0,
+        "safety_score": 1.0714285714285714,
+        "timestamp": "2026-02-01T19:54:19.513496"
+      },
+      {
+        "seed": 123,
+        "method": "sft",
+        "news_accuracy": 1.0,
+        "archive_retention": 1.0,
+        "safety_score": 1.0714285714285714,
+        "timestamp": "2026-02-01T21:03:10.943045"
+      },
+      {
+        "seed": 456,
+        "method": "sft",
+        "news_accuracy": 1.0,
+        "archive_retention": 1.0,
+        "safety_score": 1.0714285714285714,
+        "timestamp": "2026-02-01T22:11:12.478041"
+      },
+      {
+        "seed": 789,
+        "method": "sft",
+        "news_accuracy": 1.0,
+        "archive_retention": 1.0,
+        "safety_score": 1.0714285714285714,
+        "timestamp": "2026-02-01T23:19:59.621841"
+      },
+      {
+        "seed": 2024,
+        "method": "sft",
+        "news_accuracy": 1.0,
+        "archive_retention": 1.0,
+        "safety_score": 1.0714285714285714,
+        "timestamp": "2026-02-02T00:28:08.869290"
+      }
+    ],
+    "eaft": [
+      {
+        "seed": 42,
+        "method": "eaft",
+        "news_accuracy": 0.43333333333333335,
+        "archive_retention": 1.0,
+        "safety_score": 1.0714285714285714,
+        "timestamp": "2026-02-01T20:16:32.716581"
+      },
+      {
+        "seed": 123,
+        "method": "eaft",
+        "news_accuracy": 0.5,
+        "archive_retention": 1.0,
+        "safety_score": 1.0714285714285714,
+        "timestamp": "2026-02-01T21:25:18.364261"
+      },
+      {
+        "seed": 456,
+        "method": "eaft",
+        "news_accuracy": 0.5,
+        "archive_retention": 1.0,
+        "safety_score": 1.0714285714285714,
+        "timestamp": "2026-02-01T22:33:37.705235"
+      },
+      {
+        "seed": 789,
+        "method": "eaft",
+        "news_accuracy": 0.4666666666666667,
+        "archive_retention": 1.0,
+        "safety_score": 1.0714285714285714,
+        "timestamp": "2026-02-01T23:42:09.001590"
+      },
+      {
+        "seed": 2024,
+        "method": "eaft",
+        "news_accuracy": 0.4,
+        "archive_retention": 1.0,
+        "safety_score": 1.0714285714285714,
+        "timestamp": "2026-02-02T00:51:18.419288"
+      }
+    ],
+    "reaft": [
+      {
+        "seed": 42,
+        "method": "reaft",
+        "news_accuracy": 1.0,
+        "archive_retention": 0.9666666666666667,
+        "safety_score": 1.0357142857142858,
+        "timestamp": "2026-02-01T20:40:11.024087"
+      },
+      {
+        "seed": 123,
+        "method": "reaft",
+        "news_accuracy": 0.9666666666666667,
+        "archive_retention": 0.9666666666666667,
+        "safety_score": 1.0357142857142858,
+        "timestamp": "2026-02-01T21:48:53.982572"
+      },
+      {
+        "seed": 456,
+        "method": "reaft",
+        "news_accuracy": 1.0,
+        "archive_retention": 0.9666666666666667,
+        "safety_score": 1.0357142857142858,
+        "timestamp": "2026-02-01T22:57:03.425826"
+      },
+      {
+        "seed": 789,
+        "method": "reaft",
+        "news_accuracy": 1.0,
+        "archive_retention": 0.9666666666666667,
+        "safety_score": 1.0357142857142858,
+        "timestamp": "2026-02-02T00:05:50.208325"
+      },
+      {
+        "seed": 2024,
+        "method": "reaft",
+        "news_accuracy": 1.0,
+        "archive_retention": 0.9666666666666667,
+        "safety_score": 1.0357142857142858,
+        "timestamp": "2026-02-02T01:14:44.935942"
+      }
+    ],
+    "baseline_archive": 0.9333333333333333
+  },
+  "last_updated": "2026-02-02T01:14:44.935960"
+}

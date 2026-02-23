@@ -1,0 +1,119 @@
+{
+  "experiment_id": "REAFT-PROTOCOL-A",
+  "version": "1.0",
+  "completed": "2026-01-31T17:16:58.423167",
+  "per_seed_results": {
+    "sft": [
+      {
+        "seed": 42,
+        "method": "sft",
+        "correction": 0.75,
+        "retention": 1.0,
+        "timestamp": "2026-01-29T20:24:32.785534"
+      },
+      {
+        "seed": 123,
+        "method": "sft",
+        "correction": 0.77,
+        "retention": 1.0,
+        "timestamp": "2026-01-29T21:43:36.820401"
+      },
+      {
+        "seed": 456,
+        "method": "sft",
+        "correction": 0.75,
+        "retention": 1.0,
+        "timestamp": "2026-01-29T23:02:27.827916"
+      },
+      {
+        "seed": 789,
+        "method": "sft",
+        "correction": 0.73,
+        "retention": 1.0,
+        "timestamp": "2026-01-30T00:21:57.938097"
+      },
+      {
+        "seed": 2024,
+        "method": "sft",
+        "correction": 0.75,
+        "retention": 1.0,
+        "timestamp": "2026-01-30T01:40:41.666074"
+      }
+    ],
+    "eaft": [
+      {
+        "seed": 42,
+        "method": "eaft",
+        "correction": 0.47,
+        "retention": 1.0,
+        "timestamp": "2026-01-29T20:52:41.348555"
+      },
+      {
+        "seed": 123,
+        "method": "eaft",
+        "correction": 0.5,
+        "retention": 1.0,
+        "timestamp": "2026-01-29T22:11:34.088505"
+      },
+      {
+        "seed": 456,
+        "method": "eaft",
+        "correction": 0.48,
+        "retention": 1.0,
+        "timestamp": "2026-01-29T23:30:56.135256"
+      },
+      {
+        "seed": 789,
+        "method": "eaft",
+        "correction": 0.49,
+        "retention": 1.0,
+        "timestamp": "2026-01-30T00:50:20.580763"
+      },
+      {
+        "seed": 2024,
+        "method": "eaft",
+        "correction": 0.49,
+        "retention": 1.0,
+        "timestamp": "2026-01-30T02:08:24.552743"
+      }
+    ],
+    "reaft": [
+      {
+        "seed": 42,
+        "method": "reaft",
+        "correction": 0.71,
+        "retention": 1.0,
+        "timestamp": "2026-01-29T21:16:59.267528"
+      },
+      {
+        "seed": 123,
+        "method": "reaft",
+        "correction": 0.71,
+        "retention": 1.0,
+        "timestamp": "2026-01-29T22:35:36.055607"
+      },
+      {
+        "seed": 456,
+        "method": "reaft",
+        "correction": 0.73,
+        "retention": 1.0,
+        "timestamp": "2026-01-29T23:55:34.198201"
+      },
+      {
+        "seed": 789,
+        "method": "reaft",
+        "correction": 0.7,
+        "retention": 1.0,
+        "timestamp": "2026-01-30T01:14:28.919471"
+      },
+      {
+        "seed": 2024,
+        "method": "reaft",
+        "correction": 0.72,
+        "retention": 1.0,
+        "timestamp": "2026-01-30T02:32:40.226753"
+      }
+    ],
+    "baseline_retention": 1.0
+  }
+}
