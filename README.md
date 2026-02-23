@@ -137,18 +137,8 @@ cd tests
 python test_r_eaft.py
 ```
 
-## Citation
 
-If you use R-EAFT in your research, please cite:
 
-```bibtex
-@misc{reaft2026,
-  title={R-EAFT: Robust Entropy-Adaptive Fine-Tuning},
-  author={Vibecoded Research},
-  year={2026},
-  howpublished={\url{https://github.com/industriousMinstrel/r-eaft}},
-}
-```
 
 ## License
 
